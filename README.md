@@ -6,6 +6,8 @@ Ini contoh visualisasi data dengan menggunakan bahasa Python.
 0SZreiLZ3t13XWmBWBr#scrollTo=0S155rWmI1JA&line=4&uniqifier=1)
 ---
 ## Use-Case of Data Science in Retail for Recommendation System
+Saya Hijriyani Mardhotillah 
+Program Zenius Studi Independent Bersertifikat Batch 4
 Ini adalah portofolio saya eheheh.
 changes
 
